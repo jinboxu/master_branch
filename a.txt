@@ -1,2 +1,1 @@
-How are you!
-fffff
+Creating a new branch is quick and simple.
